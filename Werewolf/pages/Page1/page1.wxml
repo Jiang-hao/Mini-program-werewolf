@@ -1,0 +1,26 @@
+
+<view class="container">
+<!--<view class="classname">
+    <label>1</label> <label>1</label>
+</view>-->
+    <!--<label>1     </label> <label>      1</label>
+</view>
+<label>1</label>
+<label>1</label>-->
+
+    <view >
+        <button class="zan-btn-panel-top">1</button>
+        
+        <button class="zan-btn-panel-top">2</button>
+        
+    </view> 
+    <view>
+    <button class="zan-btn-panel-top">Role 1</button>
+    <button class="zan-btn-panel-top">Role 2</button>
+    </view>
+    <view>
+    <button class="zan-btn-panel-middle">Role 1</button>
+    <button class="zan-btn-panel-table"></button>
+</view>
+<button class="weui-btn weui-btn_primary" bindtap="refresh">Refresh</button>
+</view>
